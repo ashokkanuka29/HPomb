@@ -52,7 +52,7 @@ def banner():
 |   Secanon    |   | Version : """,verl,""" |
 ----------------   ----------------------
 
-\tCreated by Honey Pots...
+\tCreated by Ashok Kanuka...
 
 -------------------------------------------- """
     print(Red+logo[0]+Blue+logo[1]+logo[2]+logo[3])
@@ -218,7 +218,7 @@ def banner_id():
 |   Secanon    |     | Version : """,verl,""" |
 ----------------     ----------------------
 
-\tCreated by Honey Pots...
+\tCreated by Ashok kanuka...
 
 -------------------------------------------- 
   ID : """,id,"""    USE : """,use_time,"""    USER : """,userdiff,"""        
